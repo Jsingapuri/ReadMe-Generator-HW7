@@ -87,8 +87,8 @@ const questions = () => {
 // TODO: Create a function to initialize app
 const init = () => {
   questions()
-    .then((answers) => writeFileAsync("README.md", generateMarkdown(answers)))
-    .then(() => console.log("Successfully wrote to README.md"))
+    .then((answers) => writeFileAsync("NEWREADME.md", generateMarkdown(answers)))
+    .then(() => console.log("Successfully wrote to NEWREADME.md"))
     .catch((err) => console.error(err));
 };
 

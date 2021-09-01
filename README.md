@@ -1,35 +1,23 @@
+# README Generator
+## Description
+This will help the user quickly complete a README file.
 
-  ![](https://img.shields.io/badge/license-MIT-blue.svg)
-  # Hello
-  ## Description
-  The best ever
-  
-  ## Table of Contents (Optional)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Credits](#credits)
-  - [License](#license)
-  
-  ## Installation
-  Must use inquirer
-  
-  ## Usage
-  node index.js
-  
-  ## Credits
-  Me
-  
-  
-  ## License
-  MIT
-  
-    https://opensource.org/licenses/MIT
-    
-  
-  
-  ## Test
-  
+## Table of Contents (Optional)
+If your README is long, add a table of contents to make it easy for users to find what they need.
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
 
-  ## Questions
-  saf
+## Installation
+Inquirer
 
+## Usage
+to quickly generate a README
+
+## Credits
+John Singapuri
+
+## License
+The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+---
