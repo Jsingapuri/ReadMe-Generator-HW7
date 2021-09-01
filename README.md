@@ -1,8 +1,8 @@
 
   ![](https://img.shields.io/badge/license-MIT-blue.svg)
-  # hello
+  # Hello
   ## Description
-  hello world
+  The best ever
   
   ## Table of Contents (Optional)
   - [Installation](#installation)
@@ -11,13 +11,13 @@
   - [License](#license)
   
   ## Installation
-  node js is fun
+  Must use inquirer
   
   ## Usage
-  to help make better readmes
+  node index.js
   
   ## Credits
-  i did
+  Me
   
   
   ## License
@@ -28,8 +28,8 @@
   
   
   ## Test
-  darg
+  
 
   ## Questions
-  email
+  saf
 
